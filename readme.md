@@ -1,0 +1,5 @@
+💭Em uma pequena cidade chamada Objetópolis, uma cidade que celebra a orientação a objetos, a eleição para o cargo de Prefeito está a todo vapor. Dois candidatos, Marcos do Partido 1 e Patrick do Partido 2, estão na disputa. Cada cidadão da cidade pode votar uma vez, escolhendo o número do candidato de sua preferência. Se o cidadão não quiser votar em nenhum dos candidatos, ele pode votar em branco. Após todos os votos serem computados, o resultado é exibido, mostrando o número de votos que cada candidato recebeu. Se houver um empate, a cidade irá para o segundo turno. Caso contrário, o candidato com mais votos será declarado o vencedor.
+💻 Você foi contratado para criar o sistema dessa eleição. Para isso, você precisa fazer o seguinte:
+
+    👉🏼 Crie a classe Candidato, em que cada candidato tem nome, cpf, partido, numero, votos;
+    👉🏼 Crie a classe Eleicao, em que cada eleicao precisa de dois candidatos, com os comportamentos votar e exibirResultado;
